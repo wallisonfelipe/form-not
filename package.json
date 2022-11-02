@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "react": "^17.0.0"
+  },
+  "name": "form-not",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wallisonfelipe/form-not"
+  },
+  "keywords": [
+    "form",
+    "no-form",
+    "form-not",
+    "without form",
+    "without controlled form"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
